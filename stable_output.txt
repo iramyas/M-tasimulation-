@@ -1,0 +1,6 @@
+Pas 0:    █   
+Pas 1:  ██  
+Pas 2: ██ 
+Pas 3: █
+Pas 4: 
+Pas 5: 

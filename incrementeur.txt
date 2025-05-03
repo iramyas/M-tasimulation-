@@ -1,0 +1,7 @@
+# Incrémente un nombre binaire (ex: 111 -> 1000)
+q0,1,q0,1,R
+q0,0,q0,0,R
+q0,□,q1,1,L
+q1,1,q1,0,L
+q1,0,q1,1,L
+q1,□,ACCEPT,□,N
